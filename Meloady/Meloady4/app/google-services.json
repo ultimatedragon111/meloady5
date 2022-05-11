@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451664492570",
+    "project_id": "meloady-1dde4",
+    "storage_bucket": "meloady-1dde4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451664492570:android:f9459ee41c9f6f89b939a3",
+        "android_client_info": {
+          "package_name": "com.example.meloady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451664492570-h6k2bd9qsvj50vpo5cib6t0ulg4g92cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meloady",
+            "certificate_hash": "078365dfb20c17cb25eb912c65dd4c3be5bfde82"
+          }
+        },
+        {
+          "client_id": "451664492570-hp0si1k60bk2t1h1i7qm2t7m1kdj13bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJ_ZLl7nvP8QiSpvBiM6vYmumf-P1FJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451664492570-hp0si1k60bk2t1h1i7qm2t7m1kdj13bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
